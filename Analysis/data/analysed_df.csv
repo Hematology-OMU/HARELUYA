@@ -1,0 +1,4 @@
+study_ID,.SCT.Year,.Age,.Sex.Mismatch3,.PS24,dx_to_sct_day_trump,.Analysed_Disease,.Disease.satatus.all,R_CMVAntiB,.HCT.CI,Tx_pattern,.OS,.MonthOS
+id1,2016,62,0,3,206,ALL,CR,yes,3,2,1,4.1
+id2,2010,18,1,1,158,AML,CR,no,0,8,0,140.2
+id3,2013,40,0,0,170,MDS,nonCR,yes,1,7,1,5.6

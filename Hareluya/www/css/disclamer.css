@@ -1,0 +1,18 @@
+#screen {
+  background-color: gray;
+  opacity: 0.8;
+}
+
+#disclaimer {
+  background-color: white;
+  text-align: center;
+}
+
+#disclaimer iframe {
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+
+#disclaimer button {
+  margin: 5px;
+}
